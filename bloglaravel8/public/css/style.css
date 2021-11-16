@@ -1,0 +1,14 @@
+.post{
+    border: 0.5px solid grey;
+    padding: 5px;
+    margin: 10px;
+}
+.comentari{
+    margin-top: 5px;
+    border: 1px solid black;
+    background-color: #F2F2F2;
+    margin-bottom: 10px;
+}
+.comentaris{
+    text-align: center;
+}
